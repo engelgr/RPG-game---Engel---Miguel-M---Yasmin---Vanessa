@@ -16,8 +16,8 @@ Descrição: Os Jogadores devem mover o personagem usando teclado, controle ou m
 Detalhes:
 -Teclas WASD ou as setas para movimentar
 -Mouse ou analógico para mexer a câmera
-Velocidade de movimento: 5 unidades/segundo
-Suporte para corrida: 10 unidades/segundo
+-Velocidade de movimento: 5 unidades/segundo
+-Suporte para corrida: 10 unidades/segundo
 
 REQUISITOS NÄO FUNCIONAIS (RNF)
 RNF001 - Desempenho
