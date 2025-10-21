@@ -39,7 +39,7 @@ Detalhes:
 -Deve conter as Raças  Sayajin, Humano, Namekusijin, Arcosiano e todos devem mudar um pouco para diferenciar a apraencia.
 
 RF005: Exploração e mundo do jogo
-Prioridade:
+Prioridade: Baixa
 Descrição: O Jogo deve ter um mapa e conseguir  fazer  algo no mapa.
 Detalhes:
 - O sistema deve fornecer um mapa do mundo aberto que o jogador possa explorar, permitindo viajar entre diferentes locais (como a Casa do Kame ou a Corporação Cápsula).
@@ -48,7 +48,7 @@ Detalhes:
 - O sistema deve permitir que o jogador colete as Esferas do Dragão e invoque o dragão Shenlong para realizar um desejo. 
 
 RF006: Missão e Modo História:
-Priodridade:
+Priodridade: Média
 Descrição: O Jogo deve conter uma narrativa, missões alternativas e seleção de missão.
 Detalhes:
 -Missões de história: O jogo deve seguir a narrativa principal da saga de Dragon Ball, permitindo ao jogador reviver momentos icônicos da série.
@@ -56,7 +56,7 @@ Detalhes:
 -Sistema de escolhas: Permitir que as decisões do jogador impactem a história e o mundo do jogo, aumentando a sensação de imersão. 
 
 RF007: Combate e gameplay
-Prioridade:
+Prioridade:Alto
 Descrição: o Jogo deve ter um combate bom e uma boa gameplay.
 Detalhes:
 -Treinamento e habilidades: É preciso haver a possibilidade de treinar com mestres ou usar salas de gravidade para melhorar as habilidades e desbloquear novas técnicas.
@@ -74,7 +74,7 @@ Métricas:
 -FPS alvo: 60 em hardware recomendado
 
 RNF002 - Usabilidade
-Prioridade:
+Prioridade: Alta
 Descrição: O Jogador deve ter boa facilidade para adaptar no jogo.
 Métricas:
 -Controles intuitivos: A jogabilidade deve ser fácil de aprender, mas desafiadora de dominar, especialmente os combos de golpes e habilidades especiais.
@@ -82,7 +82,7 @@ Métricas:
 -Tutorial eficaz: Deve haver um tutorial completo para que novos jogadores compreendam as mecânicas de combate, exploração e progressão do personagem.
 
 RNF003 - Confiabilidade
-Prioridade:
+Prioridade:Médio
 Descrição: O Jogador deve ter confiança na hora de jogar.
 Métricas:
 -Estabilidade: O sistema deve ser robusto para evitar travamentos ou bugs críticos, especialmente durante o salvamento do jogo ou batalhas importantes.
@@ -92,7 +92,7 @@ Métricas:
 -Anticheat (para jogos online): Um sistema deve ser implementado para prevenir fraudes e garantir um ambiente de jogo justo para todos os jogadores.
 
 RNF004 - Escalabilidade
-Prioridade:
+Prioridade:Alta
 Descrição: O Jogo deve ter bos conexão de rede.
 Métricas:
 -Servidores dedicados: Se for um RPG online (MMORPG), os servidores devem suportar um grande número de jogadores simultâneos sem perda de desempenho.
@@ -100,14 +100,14 @@ Métricas:
 -Gerenciamento de tráfego: O sistema deve lidar com picos de tráfego de usuários, por exemplo, durante o lançamento de novos conteúdos, sem apresentar lentidão.
 
 RNF005 - Qualidade artística e temática
-Prioridade:
+Prioridade:Alta
 Descrição:O Jogo deve ter qualidade quase parecidas com Dragon Ball.
 Métricas:
 -Fidelidade visual: O jogo deve recriar fielmente o estilo de arte de Dragon Ball, tanto em termos de design de personagens quanto de cenários.
 -Áudio autêntico: A trilha sonora, efeitos sonoros (como os sons dos golpes de ki) e dublagem devem ser fiéis à série original para gerar uma sensação de nostalgia e familiaridade.
 
 RNF006 - Manutenibilidade
-Prioridade:
+Prioridade:Alta
 Descirção:O Jogo deve ter facil correção de bugs e bom suporte e feedback dos jogadores.
 Métricas :
 Modularidade: A arquitetura do código deve ser modular para facilitar a correção de bugs e a implementação de novas funcionalidades.
