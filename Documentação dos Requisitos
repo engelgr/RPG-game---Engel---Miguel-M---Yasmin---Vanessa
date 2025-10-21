@@ -10,6 +10,19 @@ Sinopse:[As Aventuras do Universo de Dragon Ball em que você particapara dessa 
 
 
 REQUISITOS FUNCIONAIS (RF)
-
+RF001 - Sistema de Movimento
+Prioridade: Alta
+Descrição: Os Jogadores devem mover o personagem usando teclado, controle ou mouse.
+Detalhes:
+-Teclas WASD ou as setas para movimentar
+-Mouse ou analógico para mexer a câmera
+Velocidade de movimento: 5 unidades/segundo
+Suporte para corrida: 10 unidades/segundo
 
 REQUISITOS NÄO FUNCIONAIS (RNF)
+RNF001 - Desempenho
+Prioridade: Alta
+Descrição: O jogador deve consgueir jogar em taxa de quadrádos estável.
+Métricas:
+-FPS mínimo: 30 em hardware mínimo
+-FPS alvo: 60 em hardware recomendado
