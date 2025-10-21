@@ -14,10 +14,38 @@ RF001 - Sistema de Movimento
 Prioridade: Alta
 Descrição: Os Jogadores devem mover o personagem usando teclado, controle ou mouse.
 Detalhes:
--Teclas WASD ou as setas para movimentar
+-Teclas WASD ou as setas para movimentar.
 -Mouse ou analógico para mexer a câmera
 -Velocidade de movimento: 5 unidades/segundo
 -Suporte para corrida: 10 unidades/segundo
+
+RF002 - Sistema de Colteta de Itens 
+Prioridade: Alta 
+Descrição: Os jogadores devem consgueir coletar os itens,moedas,e adicionar ao seu inventário.
+Detalhes:
+-Ao derrotar ou comprar itens o item deve ser adicionado ao inventário do Jogador 
+
+RF003 - Sistema de Níveis
+Prioridade:
+Descrição: O Jogador deve congueir experiencia por derrotar e completar missões para aumentar seu nível e aumentar seus atributos, ficando mais forte e liberando 
+novas formas
+Detalhes:
+-O sistema deve permitir que o jogador distribua pontos de atributos iniciais (como Força, Destreza e Inteligência) para personalizar as características do seu personagem.
+
+RF004: Raça
+Prioridade:
+Descrição: O sistema Exploração e mundo do jogo deve permitir que o jogador crie um personagem único, escolhendo sua raça (Saiyajin, Terráqueo, Namekuseijin, etc.), aparência e nome.
+Detalhes:
+-Deve conter as Raças  Sayajin, Humano, Namekusijin, Arcosiano e todos devem mudar um pouco para diferenciar a apraencia.
+
+RF005: Exploração e mundo do jogo
+Prioridade:
+Descrição: O Jogo deve ter um mapa e   conseguir  fazer  algo no mapa.
+Detalhes:
+- O sistema deve fornecer um mapa do mundo aberto que o jogador possa explorar, permitindo viajar entre diferentes locais (como a Casa do Kame ou a Corporação Cápsula).
+- O sistema deve permitir que o jogador voe para viajar mais rápido pelo mapa.
+- O sistema deve incluir missões principais que avancem a história e missões secundárias para obter recompensas adicionais.
+- O sistema deve permitir que o jogador colete as Esferas do Dragão e invoque o dragão Shenlong para realizar um desejo. 
 
 REQUISITOS NÄO FUNCIONAIS (RNF)
 RNF001 - Desempenho
