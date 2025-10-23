@@ -1,0 +1,46 @@
+Schema SQL:
+create table  usuario (
+jogador_id int primary key,
+username varchar (250),
+internet int,
+senha varchar,
+nivel int,
+profissao varchar,
+criacao timestamp
+);
+create Table missao (
+  id integer primary key,
+  title varchar,
+  body text ,
+  requerimento varchar,
+  user_id integer (not null),
+  nivel_requirimento varchar,
+  status varchar,
+  created_at timestamp
+);
+ Create Table  inventário(
+  inventário_id integer (not null),
+  nome_id text,
+  valor_id int,
+  Durabilidade_id int
+);
+Create Table Login(
+ Nome  boolean,
+ senha boolean 
+);
+Create Table multiplayer(
+  convite_jogador varchar,
+  multiplayer_missao varchar,
+  online_ping_id int,
+  partida_id varchar
+);
+Create Table conquista (
+  conquista_id primary key,
+  jogador_id int,
+  descricao varchar,
+  data_conquista date,
+  Foreign Key (jogadores_id) References usuario(jogador_id) 
+);
+
+Query SQL:
+Select* From
