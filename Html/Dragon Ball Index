@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Dragon Ball Tribute</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Dragon Ball Tribute</h1>
+    <img id="goku" src="https://upload.wikimedia.org/wikipedia/pt/5/59/Goku_anime.png" alt="Goku">
+    <button id="powerBtn">Transformar em Super Saiyajin</button>
+    <p id="desc">Clique no botão para ver a transformação!</p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
